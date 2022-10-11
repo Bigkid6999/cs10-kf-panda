@@ -1,3 +1,22 @@
 body{
     text-align: center;
 }
+html{
+    background: url(img/kungfupandabackground.jpg);
+    background-size: cover ;
+}
+body {
+    background-color: white;
+    width: 600px;
+    margin:auto;
+    text-align:center;
+    padding: 50px 0;
+    border-radius:25px;
+
+}
+img-c{
+padding:50px 0;
+}
+div {
+    backround-color: rgba(72, 116, 63, 0, 7)
+}
