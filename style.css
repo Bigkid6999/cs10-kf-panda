@@ -6,7 +6,7 @@ html{
     background-size: cover ;
 }
 body {
-    background-color: white;
+    background-color: rgba(255,255,255,0.6);
     width: 600px;
     margin:auto;
     text-align:center;
@@ -18,5 +18,32 @@ img-c{
 padding:50px 0;
 }
 div {
-    backround-color: rgba(72, 116, 63, 0, 7)
+background-color: rgba(72, 116, 63, 0.6);
+height: 150px;
+color: white;
+padding: 20px 0;
+}
+
+h1
+h2{
+    font-family:Papyrus;
+}
+h1{
+    margin:40px 0;
+}
+input{
+    font: size 18px;
+    padding: 5px;
+    border-radius:10px 10px;
+}
+button{
+    background-color: rgb(113, 155, 105);
+    border-radius: 10px 10px;
+    color: white;
+    height: 40px;
+    width: 100px;
+}
+button:hover{
+    backround-color:rgba(74, 111, 69) ;
+    cursor: pointer;
 }
